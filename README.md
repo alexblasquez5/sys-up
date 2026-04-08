@@ -11,7 +11,7 @@ PhiGuard SysUp is an easy-to-use self-hosted monitoring tool.
 <img src="https://weblate.kuma.pet/widgets/uptime-kuma/-/svg-badge.svg" alt="Translation status" />
 </a>
 
-<img src="https://user-images.githubusercontent.com/1336778/212262296-e6205815-ad62-488c-83ec-a5b0d0689f7c.jpg" width="700" alt="Uptime Kuma Dashboard Screenshot" />
+<img src="public/Sys Up Dashboard Screenshot.png" width="700" alt="Phi Guard SysUp Dashboard Screenshot" />
 
 ## 🥔 Live Demo
 
