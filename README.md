@@ -13,14 +13,6 @@ PhiGuard SysUp is an easy-to-use self-hosted monitoring tool.
 
 <img src="public/Sys Up Dashboard Screenshot.png" width="700" alt="Phi Guard SysUp Dashboard Screenshot" />
 
-## 🥔 Live Demo
-
-Try it!
-
-Demo Server (Location: Frankfurt - Germany): <https://demo.kuma.pet/start-demo>
-
-It is a temporary live demo, all data will be deleted after 10 minutes. Sponsored by [Uptime Kuma Sponsors](https://github.com/louislam/uptime-kuma#%EF%B8%8F-sponsors).
-
 ## ⭐ Features
 
 - Monitoring uptime for HTTP(s) / TCP / HTTP(s) Keyword / HTTP(s) Json Query / Websocket / Ping / DNS Record / Push / Steam Game Server / Docker Containers
