@@ -3,8 +3,8 @@
         <div class="form">
             <form @submit.prevent="submit">
                 <div>
-                    <object width="64" height="64" data="/icon.svg" />
-                    <div style="font-size: 28px; font-weight: bold; margin-top: 5px">Uptime Kuma</div>
+                    <img src="/sys-up-logo.png" width="64" height="64" style="object-fit: contain;" />
+                    <div style="font-size: 28px; font-weight: bold; margin-top: 5px">PhiGuard SysUp</div>
                 </div>
 
                 <p class="mt-3">
