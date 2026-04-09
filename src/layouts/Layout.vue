@@ -328,7 +328,8 @@ main {
         display: flex;
         gap: 6px;
         align-items: center;
-        background-color: rgba(200, 200, 200, 0.2);
+        //background-color: rgba(90, 90, 90, 0.42);
+        background-color: #00B3FE;
         padding: 0.5rem 0.8rem;
 
         &:hover {
@@ -384,13 +385,14 @@ main {
         align-items: center;
         justify-content: center;
         color: white;
-        background-color: $primary;
+        //background-color: $primary;
         width: 24px;
         height: 24px;
         margin-right: 5px;
         border-radius: 50rem;
         font-weight: bold;
         font-size: 10px;
+        background-color: rgba(0, 0, 0, 0.85);
     }
 }
 
