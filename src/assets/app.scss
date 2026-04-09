@@ -18,6 +18,12 @@
         noto color emoji;
 }
 
+header {
+    background-color: #82D5FA;
+    border-bottom: 1px solid #C3C6C7;
+}
+
+
 h1 {
     font-size: 32px;
 }
@@ -33,6 +39,7 @@ textarea.form-control {
 ::-webkit-scrollbar {
     width: 10px;
 }
+
 
 .bg-maintenance {
     color: white !important;
