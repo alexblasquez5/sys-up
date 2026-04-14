@@ -33,7 +33,9 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           context: .
+          file: ./docker/dockerfile
           push: true
           tags: |
             ghcr.io/${{ github.repository }}:latest
             ghcr.io/${{ github.repository }}:${{ github.sha }}
+          platforms: linux/amd64,linux/arm64
