@@ -22,7 +22,6 @@ RUN npm ci
 COPY . .
 COPY --chown=node:node --from=build_healthcheck /app/extra/healthcheck /app/extra/healthcheck
 RUN npm run build
-RUN npm prune --omit=dev
 RUN mkdir ./data
 
 
